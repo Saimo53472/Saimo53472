@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi! ![QubyChanGIF](https://user-images.githubusercontent.com/104023917/189488556-a5d56c1e-e1b3-4b7c-8725-114b507de796.gif)
+
+### My name is Simona and I am a student at University of Groningen.
+ - 💻 I’m a second-year Computing Science major.
 
 <!--
 **Saimo53472/Saimo53472** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
