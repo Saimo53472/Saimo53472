@@ -1,4 +1,4 @@
-### Hi! ![QubyChanGIF](https://user-images.githubusercontent.com/104023917/189488556-a5d56c1e-e1b3-4b7c-8725-114b507de796.gif)
+### Hi! 🙋🏻‍♀️
 
 ### My name is Simona and I am a student at University of Groningen.
  - 💻 I’m a second-year Computing Science major.
