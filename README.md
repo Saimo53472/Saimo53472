@@ -1,6 +1,6 @@
 ### Hi! 🙋🏻‍♀️
 
-### My name is Simona and I am a student at the University of Groningen.
+### My name is Simona and I am a Master's student at the University of Groningen.
  - 💻 I am in my second year of studying Computing Science.
 
 <!--
