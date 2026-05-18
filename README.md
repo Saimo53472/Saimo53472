@@ -1,7 +1,6 @@
 ### Hi! 🙋🏻‍♀️
 
 ### My name is Simona and I am a Master's student at the University of Groningen.
- - 💻 I am in my second year of studying Computing Science.
 
 <!--
 **Saimo53472/Saimo53472** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
